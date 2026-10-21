@@ -1,6 +1,7 @@
 {
  "work": "続拾遺和歌集",
  "work_id": "kt-shokushui",
+ "repo": "kumoi-no-fumigura/shokushui-wakashu",
  "yomi": "しょくしゅういわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -17553,6 +17554,5 @@
    "text": "いはた河渡る心のふかければ神もあはれと思はざらめや",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shokushui-wakashu"
+ ]
 }
